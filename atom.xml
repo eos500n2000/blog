@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Xianfei&#39;s Blog</title>
+  
+  <subtitle>胡思乱想和胡说八道</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://xianfeiblog.com/"/>
+  <updated>2020-05-03T00:33:18.800Z</updated>
+  <id>http://xianfeiblog.com/</id>
+  
+  <author>
+    <name>Xianfei Li</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://xianfeiblog.com/2020/05/02/hello-world/"/>
+    <id>http://xianfeiblog.com/2020/05/02/hello-world/</id>
+    <published>2020-05-03T00:33:18.800Z</published>
+    <updated>2020-05-03T00:33:18.800Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>The Woman in The Window</title>
+    <link href="http://xianfeiblog.com/2019/11/22/TheWomaninTheWindow/"/>
+    <id>http://xianfeiblog.com/2019/11/22/TheWomaninTheWindow/</id>
+    <published>2019-11-22T22:58:03.000Z</published>
+    <updated>2020-05-04T03:48:01.061Z</updated>
+    
+    <content type="html"><![CDATA[<p>我比较喜欢简单直接的描述，比如受伤了就一句“断了两颗牙”， 或者“两寸长的伤口”。 但是这本书是完全相反。<a id="more"></a></p><p><img src="/images/ajfinn-thewomaninthewindow.jpg" alt=""><br>号称是“ a suspense thriller ” ， 我觉得就是一个神经病人的心理活动。<br>我比较喜欢简单直接的描述，比如受伤了就一句“断了两颗牙”， 或者“两寸长的伤口”。 但是这本书是完全相反。她嘴里流血可以写一大段，“口腔里什么感觉，牙齿上什么感觉，从嘴里流出来是什么感觉， 然后脑子里开始想什么。。” 所以我根本听不下去。 一般看小说给我自己一个小时的时间，一小时之后，觉得好看就继续，觉得不好看就放弃。这本是应该放弃的，但当时实在没有书可听，就硬着头皮继续了。</p><p>我没有书可听的情况下就去找一本熟悉的作者的，不用排队的书，于是就找了 Celeste Ng 的”Everything I never told you.“ 很喜欢这个作者， 但是”Everything I never told you“ 里面的男女主两个人我都不喜欢， 也听不下去 😦</p><p>特此纪念，受虐的一本书。</p><p>Ps:以前一个同事说读书总是能给人带来快乐，我说不是，有些书读起来很不爽。 这就是个例子。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;我比较喜欢简单直接的描述，比如受伤了就一句“断了两颗牙”， 或者“两寸长的伤口”。 但是这本书是完全相反。
+    
+    </summary>
+    
+    
+    
+      <category term="MBA" scheme="http://xianfeiblog.com/tags/MBA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The Giver</title>
+    <link href="http://xianfeiblog.com/2019/11/12/TheGiver/"/>
+    <id>http://xianfeiblog.com/2019/11/12/TheGiver/</id>
+    <published>2019-11-13T01:43:15.000Z</published>
+    <updated>2020-05-03T22:37:50.472Z</updated>
+    
+    <content type="html"><![CDATA[<p>读了这本书突然觉得原来幸福快乐的感受/记忆才能给人活下去的力量，其实是应该花更多的时间精力在让人快乐的事物上。<a id="more"></a><br><img src="/images/thegiver.jpg" alt=""></p><ol><li><p>学了一个单词 “dystonia” 不仅是学了这个英文单词，其中文翻译词“反面乌托邦” 也是第一次了解。其实dystonia相关题材的小说我倒是看过不少 &lt;饥饿游戏&gt;,<ready player one>,<the maze runner>. 但是一直不知道这个词。</the></ready></p></li><li><p>大概是受儒家思想影响 ，一直比较看重痛苦忧虑，就是所谓的“苦其心志，劳其筋骨，饿其体肤”；比较看轻开心快乐 “玩物丧志”啊。读了这本书突然觉得原来幸福快乐的感受/记忆才能给人活下去的力量，其实是应该花更多的时间精力在让人快乐的事物上。</p></li></ol>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;读了这本书突然觉得原来幸福快乐的感受/记忆才能给人活下去的力量，其实是应该花更多的时间精力在让人快乐的事物上。
+    
+    </summary>
+    
+    
+    
+      <category term="读书笔记" scheme="http://xianfeiblog.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hidden Figures</title>
+    <link href="http://xianfeiblog.com/2019/05/12/HiddenFigures/"/>
+    <id>http://xianfeiblog.com/2019/05/12/HiddenFigures/</id>
+    <published>2019-05-12T22:22:14.000Z</published>
+    <updated>2020-05-03T22:38:32.617Z</updated>
+    
+    <content type="html"><![CDATA[<p>是人类为了生存真的是什么都可以妥协。<a id="more"></a></p><p><img src="the_official_poster_for_the_film_hidden_figures_2016.jpg" alt="电影海报"></p><p>故事很简单也很感人。感受主要有两个。</p><p>一是人类为了生存真的是什么都可以妥协。打仗了，为了活命什么黑人白人，能干活的都上。 看这本书的时候正好在阿拉斯加玩，在Fairbanks看到一个雕塑，纪念二战期间美苏空军联合的运武器行动（lend-lease program）。应该是从此之后再也没有了美苏空军合作的情况。冬天过去了两个刺猬就不会抱在一起取暖了。</p><p><img src="img_2665.jpg" alt="lend-lease monument"></p><p>二是用了人家就要给报酬。在二战期间用了这些黑人妇女，战后想再把她们甩了是不可能的了。 其实真的黑人平权运动也是从二战的退伍黑人士兵开始的。 不可能战场上喊人家兄弟，战后又假装什么都没发生过。当然上过战场的黑人士兵也比任何时候的黑人都跟有底气要求平权。所以啊，还是老话，没有免费的午餐。 不要轻易麻烦别人。 或者想从别人哪儿得到好处的时候，先找机会付出。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;是人类为了生存真的是什么都可以妥协。
+    
+    </summary>
+    
+    
+    
+      <category term="读书笔记" scheme="http://xianfeiblog.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+</feed>
